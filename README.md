@@ -1,9 +1,9 @@
-## Hi, i'm Gabriel Garcia and wellcome to my profile!👋
+## Hi, i'm Gabriel Garcia and welcome to my profile!👋
 <h2> About me </h2>
-I'm 20 years old and I'm in my fourth semester of my Bachelor's degree in Information Systems at the Federal Rural University of Rio de Janeiro (UFRRJ). I also completed the first semester of Analysis and Development of Systems (ADS) and i like to edit some videos sometimes using Adobe Premiere/AE.
+I'm 20 years old and I'm in my fourth semester of my Bachelor's degree in Information Systems at Universidade Federal Rural do Rio de Janeiro (UFRRJ). I also completed the first semester of Analysis and Development of Systems (ADS) and i like to edit some videos sometimes using Adobe Premiere/AE.
 <br>
 <br>
-- 🔭 I’m currently looking for my first work
+- 🔭 I’m currently looking for my first job
 <br>
 - 🌱 I’m currently learning Jakarta EE (Java EE)
 <br>
